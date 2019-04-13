@@ -34,7 +34,6 @@ body{
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
  }
 
-
 h2{
   color: #777777;
   text-align: center;
@@ -82,6 +81,7 @@ form{
   background:#4aaaa5;
   width: 200px;
 }
+
 footer{
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   color: white;
@@ -98,6 +98,7 @@ footer{
 a:hover {
   background-color:grey;
 } 
+
 .bio-image{
   width: 70%;
   margin: 0 auto;
@@ -115,6 +116,7 @@ a:hover {
   margin: 0 auto;
   background-color: white;
 }
+
 #content{
   margin: 0;
   padding: 0;
@@ -140,6 +142,7 @@ a:hover {
   clear: both;
   display: table;
 }
+
  a {
   text-decoration: none;
   list-style: none;
